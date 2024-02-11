@@ -1,0 +1,25 @@
+<div class="absolute bg-blue-700 rounded-md">
+    <app-music-player></app-music-player>
+</div>
+
+<div class="w-full h-full flex flex-col justify-center items-center">
+    <h3 class="text-blue-100   font-semibold text-6xl text-center mt-14">Fiszki z języka angielskiego!</h3>
+    @if(startOn){
+    <div class="mb-24 sm:mb-0">
+    
+        <app-categories></app-categories>
+
+    </div>
+}
+    @if(startOn){
+        <div class="mt-52">
+            <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-6xl" [disabled]="!categorySelected" (click)="start()">Start</button>
+        </div>
+    }
+    @else{
+        
+        <app-card ></app-card>
+    }
+    
+
+</div>

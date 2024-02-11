@@ -1,0 +1,11 @@
+[
+    { "id": 1, "word": "zeszyt", "translate": "notebook" },
+    { "id": 2, "word": "ołówek", "translate": "pencil" },
+    { "id": 3, "word": "długopis", "translate": "pen" },
+    { "id": 4, "word": "linijka", "translate": "ruler" },
+    { "id": 5, "word": "kalkulator", "translate": "calculator" },
+    { "id": 6, "word": "gumka", "translate": "eraser" },
+    { "id": 7, "word": "zakreślacz", "translate": "highlighter" },
+    { "id": 8, "word": "temperówka", "translate": "sharpener" },
+    { "id": 9, "word": "dzieńnik", "translate": "diary" }
+]

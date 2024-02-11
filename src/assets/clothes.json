@@ -1,0 +1,12 @@
+[
+    { "id": 1, "word": "koszula", "translate": "shirt" },
+    { "id": 2, "word": "spodnie", "translate": "pants" },
+    { "id": 3, "word": "sukienka", "translate": "dress" },
+    { "id": 4, "word": "buty", "translate": "shoes" },
+    { "id": 5, "word": "kurtka", "translate": "jacket" },
+    { "id": 6, "word": "skarpetki", "translate": "socks" },
+    { "id": 7, "word": "szalik", "translate": "scarf" },
+    { "id": 8, "word": "czapka", "translate": "hat" },
+    { "id": 9, "word": "rękawiczki", "translate": "gloves" },
+    { "id": 10, "word": "spódnica", "translate": "skirt" }
+]

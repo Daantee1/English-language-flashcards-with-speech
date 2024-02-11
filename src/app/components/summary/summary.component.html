@@ -1,0 +1,10 @@
+<div class="flex flex-col justify-center text-center mt-10">
+<h3 class="text-yellow-500 mt-10 text-5xl slide-down">Podsumowanie</h3>
+<h3 class="text-green-700 mt-10 text-4xl slide-down2">Liczba zdobytych punktów:</h3>
+<h3 class=" text-red-700 mt-12 text-3xl slide-down3">
+  <span [countUp]="correctAnswerNumber"></span>/{{words.length}}
+</h3>
+<div class="mt-5 slideLeft">
+  <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-6xl" (click)="goHome()">Zagraj ponownie</button>
+</div>
+</div>
