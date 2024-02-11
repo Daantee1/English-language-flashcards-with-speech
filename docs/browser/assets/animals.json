@@ -1,0 +1,14 @@
+[
+    { "id": 1, "word": "pies", "translate": "dog" },
+    { "id": 2, "word": "kot", "translate": "cat" },
+    { "id": 3, "word": "koń", "translate": "horse" },
+    { "id": 4, "word": "rekin", "translate": "shark" },
+    { "id": 5, "word": "osa", "translate": "wasp" },
+    { "id": 6, "word": "tygrys", "translate": "tiger" },
+    { "id": 7, "word": "koza", "translate": "goat" },
+    { "id": 8, "word": "słoń", "translate": "elephant" },
+    { "id": 9, "word": "krokodyl", "translate": "crocodile" },
+    { "id": 11, "word": "kurczak", "translate": "chicken"}
+    
+
+  ]
